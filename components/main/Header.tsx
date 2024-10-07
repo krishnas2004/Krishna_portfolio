@@ -32,7 +32,7 @@ const Header: React.FunctionComponent = () => {
           <p>
             {'A half frontend software engineer, half designer from India.'}
           </p>
-          <p>{new Date().getFullYear() - 2003 + ', he/him'}</p>
+          <p>{new Date().getFullYear() - 2004 + ', he/him'}</p>
         </div>
       </div>
     </Section>
