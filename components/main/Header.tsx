@@ -26,7 +26,7 @@ const Header: React.FunctionComponent = () => {
       </motion.div>
       <div>
         <h1 className="welcome-text leading-snug font-semibold text-2xl text-zinc-900">
-          {'👋 Hi, I am Yash'}
+          {'👋 Hi, I am Krishna Sharma'}
         </h1>
         <div className="leading-snug font-normal text-base text-zinc-500 mt-2">
           <p>
